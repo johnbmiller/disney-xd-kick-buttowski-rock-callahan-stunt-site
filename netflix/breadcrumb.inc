@@ -1,0 +1,11 @@
+<?php
+//$chromeWidth=994;
+$chromeTopColor="navy";
+$chromeBottomColor="#282828";
+$breadcrumb1="www.dohnetwork.com";
+$breadcrumb1link="http://www.dohnetwork.com/";
+$breadcrumb2="movies";
+$breadcrumb2link="http://movies.dohnetwork.com/";
+$breadcrumb3="netflix";
+$breadcrumb3link="http://movies.dohnetwork.com/netflix/";
+?>
